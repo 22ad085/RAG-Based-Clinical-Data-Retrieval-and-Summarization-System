@@ -32,7 +32,13 @@ Examples of attributes used:
 - Natural language query interface to fetch most relevant patient records.  
 - Local LLM integration for generating structured summaries.  
 - CLI and Streamlit-based interfaces for demonstration.  
-- Summaries stored in text format for reproducibility.  
+- Summaries stored in text format for reproducibility.
+
+## Screenshots
+
+### CLI Query Mode
+![CLI Query Mode](rag.png)
+
 
 ## Setup Instructions
 1. Clone the repository:
